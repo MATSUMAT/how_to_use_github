@@ -1,0 +1,9 @@
+～GitHubの使い方～
+author MATSUMAT
+
+➊新規のリポジトリを作る
+  1. login
+  2. Repositoriesを押す
+  3. Newを押す
+  4. リポジトリの設定
+  5. 
